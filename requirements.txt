@@ -1,5 +1,5 @@
 streamlit
-google-genai
+groq
+extra-streamlit-components
 pypdf
 python-dotenv
-extra_streamlit_components
